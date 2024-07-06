@@ -104,7 +104,3 @@ Contribuições são bem-vindas! Se você tiver sugestões, encontrar bugs ou qu
 ## Licença
 
 Este plugin é licenciado sob a GNU General Public License v2.0 ou posterior. Para mais detalhes, veja o arquivo [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html).
-
----
-
-Esta documentação cobre todas as funcionalidades do plugin Profile Images, incluindo como instalar, usar, configurar e personalizar o plugin. Também aborda a internacionalização e como contribuir para o desenvolvimento do plugin.
